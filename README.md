@@ -78,8 +78,6 @@ The dashboard includes:
 - **Trend Analysis:** Weekly and quarterly trends in revenue and transactions.
 - **State-Wise Insights:** Performance across different states.
 
-## 📸 Screenshots
-![Dashboard Preview](link-to-image)
 
 ## 🚀 How to Use
 1. **Import Data:** Ensure MySQL tables are populated using the provided CSV files.
