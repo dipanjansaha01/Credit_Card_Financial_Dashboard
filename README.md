@@ -3,6 +3,12 @@
 ## 🔍 Overview
 The **Credit Card Financial Dashboard** is an interactive Power BI report designed to analyze credit card transactions, customer demographics, and financial performance. This project provides insights into revenue, customer acquisition cost, transaction trends, and customer satisfaction.
 
+## 📷 Dashboard Snapshots
+- [Credit Card Customer Report (PDF)](./Credit%20Card%20Customer%20Report.pdf)
+- [Credit Card Transaction Report (PDF)](./Credit%20Card%20Transaction%20Report.pdf)
+
+These reports showcase key dashboard screenshot and insights from the analysis.
+
 ## 📌 Features
 - **Transaction Analysis:** Revenue, transaction count, and expenditure breakdown.
 - **Customer Insights:** Analysis based on job type, education level, age group, and marital status.
